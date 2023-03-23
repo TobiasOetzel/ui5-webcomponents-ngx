@@ -1,15 +1,11 @@
-import { Component } from '@angular/core';
-import {FormControl, FormGroup} from "@angular/forms";
+import {Component} from '@angular/core';
 
 @Component({
   selector: 'ui-angular-root',
-  templateUrl: './app.component.html',
-  styleUrls: ['./app.component.scss']
+  templateUrl: './app.component.html'
 })
 export class AppComponent {
-  title = 'ng-add-test';
-  form = new FormGroup({
-    name: new FormControl(''),
-    lastName: new FormControl(''),
-  });
+  log($event: any) {
+    console.log($event)
+  }
 }

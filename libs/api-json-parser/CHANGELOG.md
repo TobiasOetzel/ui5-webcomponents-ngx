@@ -3,6 +3,34 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.3...v0.1.0) (2023-03-23)
+
+**Note:** Version bump only for package @ui5/webcomponents-api-json-parser
+
+# [0.1.0-rc.3](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.2...v0.1.0-rc.3) (2023-03-20)
+
+**Note:** Version bump only for package @ui5/webcomponents-api-json-parser
+
+# [0.1.0-rc.2](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.1...v0.1.0-rc.2) (2023-03-20)
+
+**Note:** Version bump only for package @ui5/webcomponents-api-json-parser
+
+# [0.1.0-rc.1](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.0...v0.1.0-rc.1) (2023-03-19)
+
+### Features
+
+- storybook documentation ([#45](https://github.com/SAP/ui5-webcomponents-ngx/issues/45)) ([acafebf](https://github.com/SAP/ui5-webcomponents-ngx/commit/acafebfe259720af50353da6160a93dde975ff5d))
+
+# [0.1.0-rc.0](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.0.1-rc.9...v0.1.0-rc.0) (2023-03-15)
+
+### Features
+
+- reuse of the ui5 typing information and perf improvements ([#44](https://github.com/SAP/ui5-webcomponents-ngx/issues/44)) ([2e9100d](https://github.com/SAP/ui5-webcomponents-ngx/commit/2e9100db6ed792121f8298f651ae83e084c1fced))
+
+### BREAKING CHANGES
+
+- renamed output names. new scheme is ui5${pascalCase(ui5OutputName)}
+
 ## [0.0.1-rc.9](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.0.1-rc.8...v0.0.1-rc.9) (2023-03-09)
 
 **Note:** Version bump only for package @ui5/webcomponents-api-json-parser

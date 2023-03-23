@@ -3,6 +3,42 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+# [0.1.0](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.3...v0.1.0) (2023-03-23)
+
+**Note:** Version bump only for package ui5-webcomponents-ngx
+
+# [0.1.0-rc.3](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.2...v0.1.0-rc.3) (2023-03-20)
+
+### Bug Fixes
+
+- added missing peer dependencies to the ui5-angular ([#47](https://github.com/SAP/ui5-webcomponents-ngx/issues/47)) ([d6af4a8](https://github.com/SAP/ui5-webcomponents-ngx/commit/d6af4a8b4f27e2954c2064ac253ca0293794d965))
+
+# [0.1.0-rc.2](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.1...v0.1.0-rc.2) (2023-03-20)
+
+### Bug Fixes
+
+- added libs/ui5-angular/ui5-webcomponents.module.ts to cached files ([#46](https://github.com/SAP/ui5-webcomponents-ngx/issues/46)) ([b51adea](https://github.com/SAP/ui5-webcomponents-ngx/commit/b51adeaeae7841d3be7d783a99a42b527539a18e))
+
+# [0.1.0-rc.1](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.1.0-rc.0...v0.1.0-rc.1) (2023-03-19)
+
+### Features
+
+- storybook documentation ([#45](https://github.com/SAP/ui5-webcomponents-ngx/issues/45)) ([acafebf](https://github.com/SAP/ui5-webcomponents-ngx/commit/acafebfe259720af50353da6160a93dde975ff5d))
+
+# [0.1.0-rc.0](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.0.1-rc.9...v0.1.0-rc.0) (2023-03-15)
+
+### Bug Fixes
+
+- fixed sync target dependency ([4aa6db2](https://github.com/SAP/ui5-webcomponents-ngx/commit/4aa6db2a9c36bc736e2cc345b6a63ff6562ec1d0))
+
+### Features
+
+- reuse of the ui5 typing information and perf improvements ([#44](https://github.com/SAP/ui5-webcomponents-ngx/issues/44)) ([2e9100d](https://github.com/SAP/ui5-webcomponents-ngx/commit/2e9100db6ed792121f8298f651ae83e084c1fced))
+
+### BREAKING CHANGES
+
+- renamed output names. new scheme is ui5${pascalCase(ui5OutputName)}
+
 ## [0.0.1-rc.9](https://github.com/SAP/ui5-webcomponents-ngx/compare/v0.0.1-rc.8...v0.0.1-rc.9) (2023-03-09)
 
 ### Features
